@@ -74,7 +74,9 @@ button {
   height: 300px;
   display: flex;
   justify-content: space-between;
-  color: white
+  color: white;
+  line-height: 8em;
+  font-size: 19px;
 }
 
 .text_body2 {
